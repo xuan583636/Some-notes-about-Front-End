@@ -19,8 +19,8 @@
 	语句以分号结尾。
 	
 二、关键字、保留字
-			abstract		arguments		boolean		break		byte
-			case				catch				char				class			const
+	abstract		arguments		boolean		break		byte
+	case			catch			char		class		const
 			continue		debugger			default			delete		do
 			double			else					enum			eval			export
 			extends		false					final				finally		float
